@@ -1,0 +1,1087 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops.html#a940ce0b23b660ddb0a8347074f02d191"><param name="Name" value="BIGBLOCK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops.html#a071fe634651bde6ed3fdca5a7832bfb9"><param name="Name" value="BIGBLOCKS(int x)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops.html#abfcc6cd4afa1d822edb8b46996ccabed"><param name="Name" value="BLOCK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops.html#a8d9fcfc0ee9d29207f74d79c9a1ad8b3"><param name="Name" value="BLOCKS(int x)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html#a847203ec45c066c08476d460c40dd2dd"><param name="Name" value="Batch_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html#a1af65e6d0140fa9938754653d36f0746"><param name="Name" value="Batches_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#ada02b270d9b0761d4a5558f01d071e37"><param name="Name" value="Box_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#aafa2445ad81b8349e1426a13b467a43d"><param name="Name" value="COST_SCALE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a04ac1f7a0d3d42ff9865f97a15151505"><param name="Name" value="Cap_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#a3b6098708bcfa2763acd55eced55bba7"><param name="Name" value="DEG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#ae8f337b00a01625092d28e1d86fa3b93"><param name="Name" value="Demand_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a9be3b8eb8f143666319ebb24f14e62a8"><param name="Name" value="LM_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#a395bf408963f0764a7bd9f8e54688302"><param name="Name" value="LMs"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops.html#a69f9529c44a94afcbfea60e7a665131a"><param name="Name" value="LOG_BLOCK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#a9f74ac4644ecc7e15dd6c318f0b7d870"><param name="Name" value="LPatternRoute(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, int64_t *costMap, int branchIdx)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="global_8hpp.html#a268dd866026d8e87a867a90a7712d1d5"><param name="Name" value="LRR_NAMESPACE_BEGIN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="global_8hpp.html#a152756a4f708f635582d76ef42881421"><param name="Name" value="LRR_NAMESPACE_END"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#afbcbb75dc34e14fb4974cfc9159d6b84"><param name="Name" value="LVPatternRoute(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, int64_t *costMap, int offset, int expandMargin, int branchIdx, double step)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html#a1290b1a4af556681b2f08ca01ea58336"><param name="Name" value="NetFileSplitInfo()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html#aa5d460926fbd2b302d3029ae7419cd09"><param name="Name" value="NetFileSplitInfo(size_t _pos, int _netIdx, int _pinIdx, int _flatPinIdx)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#afb5d89d698396f136ad735d744f133e7"><param name="Name" value="PATTERN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#afb5d89d698396f136ad735d744f133e7aae7bc3b02ce65f7953ddfb53f8531b37"><param name="Name" value="PATTERN_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#afb5d89d698396f136ad735d744f133e7a9226ac5de595ee1e8a66ce54d1c024e2"><param name="Name" value="PATTERN_LV"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#afb5d89d698396f136ad735d744f133e7a3d7b408d8b06e1d65a96941d6834cbca"><param name="Name" value="PATTERN_Z"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a38ddb2e2744660ae91bac5b43ba2298c"><param name="Name" value="Point2_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html#a41b71ccbf3564e85fc599abd429e67c2"><param name="Name" value="RTree"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_router.html"><param name="Name" value="Router"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_router.html#af02d0b4091f79eb8e9b13c366ad89d6a"><param name="Name" value="Router(ops::common::RoutingInputs &amp;RI_, std::vector&lt; std::string &gt; &amp;layerNames_, std::vector&lt; std::string &gt; &amp;netNames_, utils::tools::LogWithTimer &amp;msg_, uint32_t t=1, bool useGPU_=false, int deviceUsed_=0, bool fastMode_=false, bool cong=false)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_router.html"><param name="Name" value="Router"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_router.html#af02d0b4091f79eb8e9b13c366ad89d6a"><param name="Name" value="Router(ops::common::RoutingInputs &amp;RI_, std::vector&lt; std::string &gt; &amp;layerNames_, std::vector&lt; std::string &gt; &amp;netNames_, utils::tools::LogWithTimer &amp;msg_, uint32_t t=1, bool useGPU_=false, int deviceUsed_=0, bool fastMode_=false, bool cong=false)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_router.html"><param name="Name" value="Router"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_router.html#a4ed94c57d3f10bb28e4b54d8c15b403f"><param name="Name" value="run()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_router.html"><param name="Name" value="Router"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_router.html#a8c9dacc634fa0c3b1856f38216647d20"><param name="Name" value="writeGDSStyle(const std::string &amp;path)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_router.html"><param name="Name" value="Router"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_router.html#addc03d687b690542564e6ba9f30e95e7"><param name="Name" value="writeISPDStyle(const std::string &amp;path)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="todo.html"><param name="Name" value="Todo List"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classops_1_1common_1_1_via__t.html#a7e22d9d3025c8718b844045701eb3ada"><param name="Name" value="Via_t(uint16_t _x=0, uint16_t _y=0, uint8_t _low=0, uint8_t _high=0)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a84bdcbd6611d7a06a3e45bd49fe15ad4"><param name="Name" value="Wire_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a78a46114f96ceec14ab25b7cb0a3cfc9"><param name="Name" value="addVia(RoutingInputs &amp;RI, int netIdx, Via_t via)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a5df834ed7109d93636759e6855b5dccc"><param name="Name" value="addVia(RoutingInputs &amp;RI, int netIdx, Via_t via, std::mutex &amp;mtx)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#aaeb357025cf3521b30c674e7c81819d5"><param name="Name" value="addWire(RoutingInputs &amp;RI, int netIdx, Wire_t wire)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#afc49f667ae077c3b0c5ce403c5001fa7"><param name="Name" value="addWire(RoutingInputs &amp;RI, int netIdx, Wire_t wire, std::mutex &amp;mtx)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#a73cfc8e0d766817a1548a733eb39aa60"><param name="Name" value="addstackVia(uint32_t l, uint32_t x, uint32_t y, ops::common::RoutingInputs &amp;RI, ops::common::RoutingOutputs &amp;RO, int val)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a1b8176598e268e25ed7a60c8f0e618e2"><param name="Name" value="adjust(Cap_t origin, float r, int l)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#ab1551d8043c2aa4410fb7dbb1fe3be7b"><param name="Name" value="alpha"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#ab1551d8043c2aa4410fb7dbb1fe3be7b"><param name="Name" value="main.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a331dff09c6a40c5c51d7d1bdc849b91f"><param name="Name" value="alpha"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a331dff09c6a40c5c51d7d1bdc849b91f"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#aa05722ce4b5098be11da1b592c007f65"><param name="Name" value="applyRR(RoutingInputs &amp;RI, RoutingOutputs &amp;RO, RoutingResults &amp;RR)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#a478179383e8d64dc729ae1b7d38a8101"><param name="Name" value="assignEdge(int32_t *gcellx, int32_t *gcelly, int8_t *gcellz, uint32_t len, int64_t *f, int e1, int e2, int32_t *prev, ops::common::RoutingInputs &amp;RI, ops::common::RoutingOutputs &amp;RO, int branchIdx)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#ace7cb1bb041bb29799d94a4a67e9b91f"><param name="Name" value="avgUnitVioCost"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#a29e349c096b497fb8bd944b87796c9fe"><param name="Name" value="avgUnitVioCostOrigin"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#aa773d9a6c0ccefaa0fc9ab66fec68ec1"><param name="Name" value="beta"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#aa773d9a6c0ccefaa0fc9ab66fec68ec1"><param name="Name" value="main.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#ab453f803dff0cbe2466d6c3b291d9b4c"><param name="Name" value="beta"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#ab453f803dff0cbe2466d6c3b291d9b4c"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html#a1724ae6f414305b3cc85be252fec5040"><param name="Name" value="boostBox"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html#a27bccd691367bab6fb3634de70f92a7e"><param name="Name" value="boostPoint"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#aa7fe8a288a279dc944844570347b90ba"><param name="Name" value="branchNum"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a5e311f5cc09e3756bb376da35b539948"><param name="Name" value="capFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#a9d307b3f17f4e9b4d28b32802a638f41"><param name="Name" value="capMap2D"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a14afb96a60afd6e647d9caa3700a20f6"><param name="Name" value="capMap"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a26d00c688a93eed78d26ea62b239d710"><param name="Name" value="capMap_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#aa5723a96e5b7dbace12c2efd3b00559b"><param name="Name" value="coefMax[]"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a3315c454f6de59b2c2a0838d8500f388"><param name="Name" value="coefMid[]"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#ade040a06da6d3b034c2faa19b6b4b602"><param name="Name" value="coefMin[]"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#af2f80013559a056b9792901fa57f50ed"><param name="Name" value="coefSlope[]"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a344192a72f9c6bab16e4033be82f4589"><param name="Name" value="cong"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#a044e75bbaed6ac4300f74fdad5dd9376"><param name="Name" value="convertRO2RR(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, size_t *flatPathOffset, int8_t *flatPathGCelll, int numThreads)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#ac3edc55a4de364ad25f2f2455f4da1cf"><param name="Name" value="cpu()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#a000ba4ff0141ea5940fcbc614cf76572"><param name="Name" value="cpu(const RoutingInputs &amp;RI)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#a000ba4ff0141ea5940fcbc614cf76572"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#ab2c08727b8c368b20fb4130b65b5181c"><param name="Name" value="cpu(const RoutingInputs &amp;RI)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#ab2c08727b8c368b20fb4130b65b5181c"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a29273ffd29bd7010c9f55517f315b8a1"><param name="Name" value="cpu(const RoutingInputs &amp;RI)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a29273ffd29bd7010c9f55517f315b8a1"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a5ab49978ad1dd417428bb9a66b6d1280"><param name="Name" value="cuda()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#aba9575dc929c340fbc99ea82c07ee2b8"><param name="Name" value="cuda(const RoutingInputs &amp;RI)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#aba9575dc929c340fbc99ea82c07ee2b8"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#aee7a8ec7f6f3587f39b74e0a3a9e1fde"><param name="Name" value="cuda(const RoutingInputs &amp;RI)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#aee7a8ec7f6f3587f39b74e0a3a9e1fde"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a507e8bd66bda5d49d82d29246610f3d9"><param name="Name" value="cuda(const RoutingInputs &amp;RI)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a507e8bd66bda5d49d82d29246610f3d9"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1decompose.html#a65061cf468c289fe92d3825bab16e733"><param name="Name" value="decompose(const ops::common::RoutingInputs &amp;RI, const ops::common::RoutingDatas &amp;RD, int numThreads=1, bool useGPU=false)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a77657a7f3ebd775908eb2322894efab5"><param name="Name" value="defFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#afeb63ae6556c9a337295b2819c52a94a"><param name="Name" value="demandMap2D"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#af18e3793fbdd812253d7d814bebb67fa"><param name="Name" value="demandMap"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a19b79ca03112e319ddf0459638a1a170"><param name="Name" value="deviceUsed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a9a8a3bb5414fb7c77762e78778800b0a"><param name="Name" value="directions"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a63a510c2dc2cae659395cfde54e83e8d"><param name="Name" value="directions_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a0a5ca619fabb320bba3c8cd4c8297ce9"><param name="Name" value="display3D(RoutingInputs &amp;RI, RoutingOutputs &amp;RO, int numThreads)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacee_g_r.html"><param name="Name" value="eGR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacee_g_r.html#a328004bcdf78139a69d7c44e4c248722"><param name="Name" value="eGR(ops::common::RoutingInputs &amp;RI, ops::common::Demand_t *demandMap, uint32_t numThreads)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacee_g_r.html#a328004bcdf78139a69d7c44e4c248722"><param name="Name" value="eGR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_path.html#a08549fa118522899abe93809e8ed0f8c"><param name="Name" value="endx"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_path.html#a449a29bb6a2c4923dfa1e1b4f11a3c85"><param name="Name" value="endy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a3ac1573213ea156bd7d4446449a36a91"><param name="Name" value="extractRD(RoutingInputs &amp;RI, int numThreads=1)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#afb8dbe9cac8ad7bcab1141981448759e"><param name="Name" value="fRRR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_parser.html#af2041f85f6ddd119c9fb2a201546b5e6"><param name="Name" value="file2Memory(char *buf, FILE *fp, size_t fileSize)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#ac9c78fb00bffe02f714df077c330248a"><param name="Name" value="flatBranchBotLayer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a7a9758bf06e6bebd4a93e564a222bb26"><param name="Name" value="flatBranchEndx"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#ae12a1b130294f73a1f58b84aebb08bd8"><param name="Name" value="flatBranchEndy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a6cbfdab08b531aaa0d580f1f7f4a421c"><param name="Name" value="flatBranchPathEnd"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a5c4994f9e5cd738efee55313195e5f27"><param name="Name" value="flatBranchPathStart"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a188a0a24cd2e24a748dde9a72d1a3059"><param name="Name" value="flatBranchStartx"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#ad2000b6ded465ea256d376b389226ab9"><param name="Name" value="flatBranchStarty"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a0af7f53153c18aafbc5e2f07260736b4"><param name="Name" value="flatBranchTopLayer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#af8b7a4e0df9ee71b83616771f3cec578"><param name="Name" value="flatNetPin2Dx"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#ac703a0c90c92b943c3e59b88323a2334"><param name="Name" value="flatNetPin2Dy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#ad6060465c7f48878eaafb72a32047ced"><param name="Name" value="flatNetPin3Dl"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#ab3862d6945bb71d4d9de422c9b1bf53d"><param name="Name" value="flatNetPin3Dx"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#ad6143dde92b3d1b6e3ffe912f079332c"><param name="Name" value="flatNetPin3Dy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#aa9a15392fd20c6902db08c1eae78c83f"><param name="Name" value="flatNetPinl"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a111ac045a7de8ee862bc699801549379"><param name="Name" value="flatNetPinl_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a9440c0f0aa79f53e1c1861265e69a76f"><param name="Name" value="flatNetPinx"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#afffa3a9429fe6139d69d2f2393fe5bce"><param name="Name" value="flatNetPinx_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#ae6363794a85e77a3612cb2e6c8dd2859"><param name="Name" value="flatNetPiny"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a0255ab73bf58ea04575993de9da9542b"><param name="Name" value="flatNetPiny_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a106a81fd03b9bdb6b6c68c84d32912ca"><param name="Name" value="flatPaths"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html#a20326c9622ed3e983c7a7be21ea9a439"><param name="Name" value="flatPinIdx"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a18d5c74a4caf5771be0738cef7a628cb"><param name="Name" value="flatPinOffset"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#ada94daa15ff34541fdf2b956ba307d14"><param name="Name" value="flatPinOffset_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html#a4ce071a8b823cc568097d76792c50b95"><param name="Name" value="gen(std::vector&lt; ops::common::Box_t &gt; &amp;boxes, uint32_t maxBatchSize=1000, uint32_t expandMargin=1, bool useSort=true, int32_t numThreads=1)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html#af442170dc8b6d813fea34907b040c738"><param name="Name" value="genRandomly(std::vector&lt; ops::common::Box_t &gt; &amp;boxes, int threshold)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html#ab104e7f9eb5b24717085aaef5f76f832"><param name="Name" value="genWithRatio(std::vector&lt; ops::common::Box_t &gt; &amp;boxes, std::vector&lt; int &gt; &amp;numPins, uint32_t maxBatchSize=1000, uint32_t expandMargin=1, int32_t numThreads=1)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#a556a10bd4b5464d7dead74e58f622322"><param name="Name" value="getBoxesAndInitalBotTop(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a5a1ad3af7620510efaf9d58b81b9959b"><param name="Name" value="getTotalOverflow2D(RoutingInputs &amp;RI, RoutingDatas &amp;RD, double ratio=1, bool verbose=false)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#ac7803b5f13cdbc0aed6715d4bd792208"><param name="Name" value="getTotalOverflow2DCPUKernel(RoutingInputs RI, RoutingDatas RD, double ratio=1, bool verbose=false)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#afa780dfb3b0fff26752b79f8f0e61be2"><param name="Name" value="getTotalOverflow2DGPUKernel(RoutingInputs RI, RoutingDatas RD, double ratio=1, bool verbose=false)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="global_8hpp.html"><param name="Name" value="global.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="global_8hpp.html#a268dd866026d8e87a867a90a7712d1d5"><param name="Name" value="LRR_NAMESPACE_BEGIN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="global_8hpp.html"><param name="Name" value="global.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="global_8hpp.html#a152756a4f708f635582d76ef42881421"><param name="Name" value="LRR_NAMESPACE_END"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#adc75d50a21c363b840bc50cf9b16f19d"><param name="Name" value="hEdgeLengths"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#acc23aa85d483d42eb59f8b7ea4217f7e"><param name="Name" value="hEdgeLengths_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#ad3a09278c09152f52c7b6ccd24c41dfb"><param name="Name" value="heuristicAdjustCapacity(RoutingInputs &amp;RI, RoutingDatas &amp;RD, int numThreads)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classops_1_1common_1_1_via__t.html#a2a22e3e027eb4ff26f070a94730c35ec"><param name="Name" value="high() const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#a72e878843e89fd0ffbeb046053480a9a"><param name="Name" value="isOvfl(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, double thres, int branchIdx)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a2783607bcff77ef364951bfc04232bc0"><param name="Name" value="launchRouter()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#ae5c18ec1d12ada868e7c2a8cbe59cd46"><param name="Name" value="layerAssignment(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, ops::common::RoutingResults &amp;RR, batch::Batches_t &amp;batches, int32_t numThreads=1)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#a6be6b1f82951ccc7883df6f2555f4e2c"><param name="Name" value="layerAssignment(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, ops::common::RoutingResults &amp;RR, int32_t numThreads=1)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#a44da2df44815aba5e40d6e665bdbaff2"><param name="Name" value="layerAssignmentCPUKernel(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, ops::common::RoutingResults &amp;RR, ops::batch::Batches_t &amp;batches, int32_t numThreads)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#ac229e0f0f3ad77fe2f30eacf9785a193"><param name="Name" value="layerAssignmentGPUKernel(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, ops::common::RoutingResults &amp;RR, ops::batch::Batches_t &amp;batches, int32_t numThreads)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#ae8166de85bd5db36efdc8c54f721dca4"><param name="Name" value="lefFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classops_1_1common_1_1_via__t.html#a24886186326758148c6288d25524593b"><param name="Name" value="low() const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627"><param name="Name" value="main(int argc, char **argv)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#ab1551d8043c2aa4410fb7dbb1fe3be7b"><param name="Name" value="alpha"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#aa773d9a6c0ccefaa0fc9ab66fec68ec1"><param name="Name" value="beta"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a5e311f5cc09e3756bb376da35b539948"><param name="Name" value="capFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a344192a72f9c6bab16e4033be82f4589"><param name="Name" value="cong"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a77657a7f3ebd775908eb2322894efab5"><param name="Name" value="defFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a19b79ca03112e319ddf0459638a1a170"><param name="Name" value="deviceUsed"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#afb8dbe9cac8ad7bcab1141981448759e"><param name="Name" value="fRRR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a2783607bcff77ef364951bfc04232bc0"><param name="Name" value="launchRouter()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#ae8166de85bd5db36efdc8c54f721dca4"><param name="Name" value="lefFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627"><param name="Name" value="main(int argc, char **argv)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a839399739f44b1242b9f18bdc1fd043c"><param name="Name" value="msg"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a2c99db16c1345a154f59ed0097cfafbe"><param name="Name" value="netFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#aa84c6f4ba6f33ec1a17b3723fc593290"><param name="Name" value="numThreads"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a2c9d331a74b913ac81e57934e6ba2646"><param name="Name" value="outputFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a52acb57517f66bb1b4fddd6528462fe1"><param name="Name" value="setGlobalVariables(const opt::variables_map &amp;vm)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a586fcfd0cbef964d99f44ea4ac85e4c0"><param name="Name" value="useCapNet"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a52e8afdea8aa919d40a26f74a01fc823"><param name="Name" value="useEGR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#afb473f12e2258ec4363e7f1dac046633"><param name="Name" value="useFastMode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a07f2098d9ced32b0b2e75dded17de056"><param name="Name" value="useGPU"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#ab2008edbed9357f6a3dbb3b055ac6645"><param name="Name" value="useLefDef"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a0b2caeb4b6f130be43e5a2f0267dd453"><param name="Name" value="verbose"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#ab1eaefa7e8decb3c3dfe726df720fa02"><param name="Name" value="manhattan(uint32_t startx, uint32_t starty, uint32_t endx, uint32_t endy)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a57d17361d4b2abc88da743c86183723f"><param name="Name" value="maxBranchOfOneNet"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a839399739f44b1242b9f18bdc1fd043c"><param name="Name" value="msg"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a78bb5bc17326f9ea13b037c749e5657b"><param name="Name" value="netBranchStart"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a2c99db16c1345a154f59ed0097cfafbe"><param name="Name" value="netFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html#a2b21ef31eea5c4509eaa2ce5810fb8bd"><param name="Name" value="netIdx"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#a3d54d8cf25f7f9dd210b631ee05ea509"><param name="Name" value="netPin2DStart"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#a8782413abeafc2fbb5ac30c90b17fd10"><param name="Name" value="netPin3DStart"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a4a1f4b42b3a10396d248720459b90297"><param name="Name" value="netPinStart"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#ab7b36410e85905fae0437774642cab1a"><param name="Name" value="netPinStart_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a700454446f1c83ee0a41ab56d71c8eb4"><param name="Name" value="numGCellsX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a3a3912325846ea0b8f847f0870a184a2"><param name="Name" value="numGCellsY"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a1759bf5887125af61cda1c38b3b51a5f"><param name="Name" value="numLayers"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a54541172c7334e5161307b29bf475903"><param name="Name" value="numNets"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#aa84c6f4ba6f33ec1a17b3723fc593290"><param name="Name" value="numThreads"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#a1d5d523e3d5cfc4c3c6e1108376c9eb7"><param name="Name" value="onGPU"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#a1d5d523e3d5cfc4c3c6e1108376c9eb7"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a7f963d758016973e2d32d8e84fae69bb"><param name="Name" value="onGPU"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a7f963d758016973e2d32d8e84fae69bb"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a07a8762479ddff1dc3b862f4ebfd1096"><param name="Name" value="onGPU"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a07a8762479ddff1dc3b862f4ebfd1096"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#acb376b054be1c5f1007138bb604ac131"><param name="Name" value="onGPU"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#acb376b054be1c5f1007138bb604ac131"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops.html"><param name="Name" value="ops"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html"><param name="Name" value="ops::LM"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html"><param name="Name" value="ops::LM"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#a591b0d077fa0b2d65b4ea399382f5bc4"><param name="Name" value="setInitialLM(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, double val)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html"><param name="Name" value="ops::LM"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#afb98b8dd508229d246e2b7dfd03b2dfe"><param name="Name" value="setInitialLMCPUKernel(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, double val)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html"><param name="Name" value="ops::LM"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#a97702eb0dbc999bba672de80eb8bbf10"><param name="Name" value="setInitialLMGPUKernel(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, double val)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html"><param name="Name" value="ops::LM"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#aee48df767a0cf63d699ca12db7c5442f"><param name="Name" value="updateEM(const ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, uint32_t iter)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html"><param name="Name" value="ops::LM"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#acabe4d0d1a0c5955978e57f79df2a674"><param name="Name" value="updateEMCPUKernel(const ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, uint32_t iter)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html"><param name="Name" value="ops::LM"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#a95a86f158e99c6c9226b1ce1e5416153"><param name="Name" value="updateEMGPUKernel(const ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, uint32_t iter)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html"><param name="Name" value="ops::LM"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#aeea201c2c68664151f7e83339b9c1c11"><param name="Name" value="updateLR(const ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, uint32_t iter)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html"><param name="Name" value="ops::LM"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#aa7102dbcbaefebdaba7b4b59dc6c6438"><param name="Name" value="updateLRCPUKernel(const ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, uint32_t iter)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html"><param name="Name" value="ops::LM"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#aa15eec56074c7172ded37d34257e5d17"><param name="Name" value="updateLRGPUKernel(const ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, uint32_t iter)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_parser.html"><param name="Name" value="ops::Parser"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html"><param name="Name" value="ops::Parser::NetFileSplitInfo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html"><param name="Name" value="ops::Parser::NetFileSplitInfo"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html#a1290b1a4af556681b2f08ca01ea58336"><param name="Name" value="NetFileSplitInfo()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html"><param name="Name" value="ops::Parser::NetFileSplitInfo"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html#aa5d460926fbd2b302d3029ae7419cd09"><param name="Name" value="NetFileSplitInfo(size_t _pos, int _netIdx, int _pinIdx, int _flatPinIdx)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html"><param name="Name" value="ops::Parser::NetFileSplitInfo"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html#a20326c9622ed3e983c7a7be21ea9a439"><param name="Name" value="flatPinIdx"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html"><param name="Name" value="ops::Parser::NetFileSplitInfo"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html#a2b21ef31eea5c4509eaa2ce5810fb8bd"><param name="Name" value="netIdx"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html"><param name="Name" value="ops::Parser::NetFileSplitInfo"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html#ae7ccf81fdca0737a776e5340231faa50"><param name="Name" value="pinIdx"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html"><param name="Name" value="ops::Parser::NetFileSplitInfo"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html#a12db698d54426564d620da6af8f1e7a0"><param name="Name" value="pos"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_parser.html"><param name="Name" value="ops::Parser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_parser.html#af2041f85f6ddd119c9fb2a201546b5e6"><param name="Name" value="file2Memory(char *buf, FILE *fp, size_t fileSize)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_parser.html"><param name="Name" value="ops::Parser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_parser.html#a8bc480781433a0b09853c67d03cabde3"><param name="Name" value="readCapNet(const char *capFilePath, const char *netFilePath, bool warmUpGPU=true, int numThreads=1)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html"><param name="Name" value="ops::batch"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html"><param name="Name" value="ops::batch"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html#a847203ec45c066c08476d460c40dd2dd"><param name="Name" value="Batch_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html"><param name="Name" value="ops::batch"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html#a1af65e6d0140fa9938754653d36f0746"><param name="Name" value="Batches_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html"><param name="Name" value="ops::batch"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html#a41b71ccbf3564e85fc599abd429e67c2"><param name="Name" value="RTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html"><param name="Name" value="ops::batch"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html#a1724ae6f414305b3cc85be252fec5040"><param name="Name" value="boostBox"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html"><param name="Name" value="ops::batch"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html#a27bccd691367bab6fb3634de70f92a7e"><param name="Name" value="boostPoint"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html"><param name="Name" value="ops::batch"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html#a4ce071a8b823cc568097d76792c50b95"><param name="Name" value="gen(std::vector&lt; ops::common::Box_t &gt; &amp;boxes, uint32_t maxBatchSize=1000, uint32_t expandMargin=1, bool useSort=true, int32_t numThreads=1)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html"><param name="Name" value="ops::batch"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html#af442170dc8b6d813fea34907b040c738"><param name="Name" value="genRandomly(std::vector&lt; ops::common::Box_t &gt; &amp;boxes, int threshold)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html"><param name="Name" value="ops::batch"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1batch.html#ab104e7f9eb5b24717085aaef5f76f832"><param name="Name" value="genWithRatio(std::vector&lt; ops::common::Box_t &gt; &amp;boxes, std::vector&lt; int &gt; &amp;numPins, uint32_t maxBatchSize=1000, uint32_t expandMargin=1, int32_t numThreads=1)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_path.html"><param name="Name" value="ops::common::Path"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_path.html"><param name="Name" value="ops::common::Path"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_path.html#a08549fa118522899abe93809e8ed0f8c"><param name="Name" value="endx"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_path.html"><param name="Name" value="ops::common::Path"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_path.html#a449a29bb6a2c4923dfa1e1b4f11a3c85"><param name="Name" value="endy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_path.html"><param name="Name" value="ops::common::Path"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_path.html#ada9836414fe4ac011ba53e277e0cf489"><param name="Name" value="startx"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_path.html"><param name="Name" value="ops::common::Path"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_path.html#acee5f4b96ddcd8860603f0cd4984c264"><param name="Name" value="starty"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#a395bf408963f0764a7bd9f8e54688302"><param name="Name" value="LMs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#ace7cb1bb041bb29799d94a4a67e9b91f"><param name="Name" value="avgUnitVioCost"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#a29e349c096b497fb8bd944b87796c9fe"><param name="Name" value="avgUnitVioCostOrigin"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#a9d307b3f17f4e9b4d28b32802a638f41"><param name="Name" value="capMap2D"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#a000ba4ff0141ea5940fcbc614cf76572"><param name="Name" value="cpu(const RoutingInputs &amp;RI)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#aba9575dc929c340fbc99ea82c07ee2b8"><param name="Name" value="cuda(const RoutingInputs &amp;RI)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#afeb63ae6556c9a337295b2819c52a94a"><param name="Name" value="demandMap2D"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#af8b7a4e0df9ee71b83616771f3cec578"><param name="Name" value="flatNetPin2Dx"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#ac703a0c90c92b943c3e59b88323a2334"><param name="Name" value="flatNetPin2Dy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#ad6060465c7f48878eaafb72a32047ced"><param name="Name" value="flatNetPin3Dl"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#ab3862d6945bb71d4d9de422c9b1bf53d"><param name="Name" value="flatNetPin3Dx"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#ad6143dde92b3d1b6e3ffe912f079332c"><param name="Name" value="flatNetPin3Dy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#a3d54d8cf25f7f9dd210b631ee05ea509"><param name="Name" value="netPin2DStart"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#a8782413abeafc2fbb5ac30c90b17fd10"><param name="Name" value="netPin3DStart"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html"><param name="Name" value="ops::common::RoutingDatas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_datas.html#a1d5d523e3d5cfc4c3c6e1108376c9eb7"><param name="Name" value="onGPU"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a331dff09c6a40c5c51d7d1bdc849b91f"><param name="Name" value="alpha"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#ab453f803dff0cbe2466d6c3b291d9b4c"><param name="Name" value="beta"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a14afb96a60afd6e647d9caa3700a20f6"><param name="Name" value="capMap"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a26d00c688a93eed78d26ea62b239d710"><param name="Name" value="capMap_"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#ac3edc55a4de364ad25f2f2455f4da1cf"><param name="Name" value="cpu()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a5ab49978ad1dd417428bb9a66b6d1280"><param name="Name" value="cuda()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a9a8a3bb5414fb7c77762e78778800b0a"><param name="Name" value="directions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a63a510c2dc2cae659395cfde54e83e8d"><param name="Name" value="directions_"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#aa9a15392fd20c6902db08c1eae78c83f"><param name="Name" value="flatNetPinl"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a111ac045a7de8ee862bc699801549379"><param name="Name" value="flatNetPinl_"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a9440c0f0aa79f53e1c1861265e69a76f"><param name="Name" value="flatNetPinx"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#afffa3a9429fe6139d69d2f2393fe5bce"><param name="Name" value="flatNetPinx_"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#ae6363794a85e77a3612cb2e6c8dd2859"><param name="Name" value="flatNetPiny"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a0255ab73bf58ea04575993de9da9542b"><param name="Name" value="flatNetPiny_"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a18d5c74a4caf5771be0738cef7a628cb"><param name="Name" value="flatPinOffset"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#ada94daa15ff34541fdf2b956ba307d14"><param name="Name" value="flatPinOffset_"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#adc75d50a21c363b840bc50cf9b16f19d"><param name="Name" value="hEdgeLengths"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#acc23aa85d483d42eb59f8b7ea4217f7e"><param name="Name" value="hEdgeLengths_"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a4a1f4b42b3a10396d248720459b90297"><param name="Name" value="netPinStart"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#ab7b36410e85905fae0437774642cab1a"><param name="Name" value="netPinStart_"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a700454446f1c83ee0a41ab56d71c8eb4"><param name="Name" value="numGCellsX"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a3a3912325846ea0b8f847f0870a184a2"><param name="Name" value="numGCellsY"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a1759bf5887125af61cda1c38b3b51a5f"><param name="Name" value="numLayers"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a54541172c7334e5161307b29bf475903"><param name="Name" value="numNets"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a7f963d758016973e2d32d8e84fae69bb"><param name="Name" value="onGPU"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a98ca47c44d1ae8512f5500c9712b317b"><param name="Name" value="unitViaCost"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#ae762ab50dc698c5c02d41c09026b85a2"><param name="Name" value="unitVioCosts"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a16d7aceb97272e457cae5bef4f5b48f4"><param name="Name" value="unitVioCosts_"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#aebe56c831d42d8ec71901e82578e91d1"><param name="Name" value="unitWireCost"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a4eca500c44ae56b141f73c1575b27f25"><param name="Name" value="vEdgeLengths"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html"><param name="Name" value="ops::common::RoutingInputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a71dd6f9d39c4dc4e89a1bf02bdffa5ec"><param name="Name" value="vEdgeLengths_"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#aa7fe8a288a279dc944844570347b90ba"><param name="Name" value="branchNum"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#ab2c08727b8c368b20fb4130b65b5181c"><param name="Name" value="cpu(const RoutingInputs &amp;RI)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#aee7a8ec7f6f3587f39b74e0a3a9e1fde"><param name="Name" value="cuda(const RoutingInputs &amp;RI)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#af18e3793fbdd812253d7d814bebb67fa"><param name="Name" value="demandMap"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#ac9c78fb00bffe02f714df077c330248a"><param name="Name" value="flatBranchBotLayer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a7a9758bf06e6bebd4a93e564a222bb26"><param name="Name" value="flatBranchEndx"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#ae12a1b130294f73a1f58b84aebb08bd8"><param name="Name" value="flatBranchEndy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a6cbfdab08b531aaa0d580f1f7f4a421c"><param name="Name" value="flatBranchPathEnd"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a5c4994f9e5cd738efee55313195e5f27"><param name="Name" value="flatBranchPathStart"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a188a0a24cd2e24a748dde9a72d1a3059"><param name="Name" value="flatBranchStartx"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#ad2000b6ded465ea256d376b389226ab9"><param name="Name" value="flatBranchStarty"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a0af7f53153c18aafbc5e2f07260736b4"><param name="Name" value="flatBranchTopLayer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a106a81fd03b9bdb6b6c68c84d32912ca"><param name="Name" value="flatPaths"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a57d17361d4b2abc88da743c86183723f"><param name="Name" value="maxBranchOfOneNet"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a78bb5bc17326f9ea13b037c749e5657b"><param name="Name" value="netBranchStart"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a07a8762479ddff1dc3b862f4ebfd1096"><param name="Name" value="onGPU"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#af5f54ee7d5eba561eb1c2ac4b706a06d"><param name="Name" value="overflowCost"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a0d282bedc3c97d5694327c5054ba1147"><param name="Name" value="stackViaMap"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a790b22f7866aae3055c745d1157ae7b4"><param name="Name" value="totalVia"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#ac4d6db0690213f7a1c0d4e4f0c353838"><param name="Name" value="totalWire"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a879ada3d1f86abd9ad349e5fddca32d7"><param name="Name" value="viaCost"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#ae933384bdfa003181bb58a5df7c04bd9"><param name="Name" value="viaMap"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html"><param name="Name" value="ops::common::RoutingOutputs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a322cb400dc0af1361bc910bf2e883e4a"><param name="Name" value="wireCost"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a78a46114f96ceec14ab25b7cb0a3cfc9"><param name="Name" value="addVia(RoutingInputs &amp;RI, int netIdx, Via_t via)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a5df834ed7109d93636759e6855b5dccc"><param name="Name" value="addVia(RoutingInputs &amp;RI, int netIdx, Via_t via, std::mutex &amp;mtx)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#aaeb357025cf3521b30c674e7c81819d5"><param name="Name" value="addWire(RoutingInputs &amp;RI, int netIdx, Wire_t wire)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#afc49f667ae077c3b0c5ce403c5001fa7"><param name="Name" value="addWire(RoutingInputs &amp;RI, int netIdx, Wire_t wire, std::mutex &amp;mtx)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a29273ffd29bd7010c9f55517f315b8a1"><param name="Name" value="cpu(const RoutingInputs &amp;RI)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a507e8bd66bda5d49d82d29246610f3d9"><param name="Name" value="cuda(const RoutingInputs &amp;RI)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#acb376b054be1c5f1007138bb604ac131"><param name="Name" value="onGPU"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#af6f0757c70a15aa854daadfd14eef907"><param name="Name" value="viaBound"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#aef02af1d3a9d813637631a85af33a1f3"><param name="Name" value="viaEnd"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a2099b5db66e0f9889a3d4e6a682eec66"><param name="Name" value="viaStart"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#ab897f39fdb9520f7c09bc3a6c8b8b578"><param name="Name" value="vias"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a1702a0214f25049ca467825e33c1d61d"><param name="Name" value="viasNum"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a408e8f45cf492f1f28f86333d1d8dfde"><param name="Name" value="wireBound"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a90b6ee803fe9f850beebab4dd5867fd7"><param name="Name" value="wireEnd"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#ab73e0f2187d3c75b6dda6694ba04e86f"><param name="Name" value="wireStart"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a9ab19a44f761398cfcb1441066669a48"><param name="Name" value="wires"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html"><param name="Name" value="ops::common::RoutingResults"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#ae8e71f2e8a25af5cd9d7b46fda6708c8"><param name="Name" value="wiresNum"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classops_1_1common_1_1_via__t.html"><param name="Name" value="ops::common::Via_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classops_1_1common_1_1_via__t.html"><param name="Name" value="ops::common::Via_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classops_1_1common_1_1_via__t.html#a7e22d9d3025c8718b844045701eb3ada"><param name="Name" value="Via_t(uint16_t _x=0, uint16_t _y=0, uint8_t _low=0, uint8_t _high=0)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classops_1_1common_1_1_via__t.html"><param name="Name" value="ops::common::Via_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classops_1_1common_1_1_via__t.html#a2a22e3e027eb4ff26f070a94730c35ec"><param name="Name" value="high() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classops_1_1common_1_1_via__t.html"><param name="Name" value="ops::common::Via_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classops_1_1common_1_1_via__t.html#a24886186326758148c6288d25524593b"><param name="Name" value="low() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classops_1_1common_1_1_via__t.html"><param name="Name" value="ops::common::Via_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classops_1_1common_1_1_via__t.html#aaff377892698c7efb882874234dfcda6"><param name="Name" value="x() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classops_1_1common_1_1_via__t.html"><param name="Name" value="ops::common::Via_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classops_1_1common_1_1_via__t.html#ab64c035aca186ce6bb7379c9edb7a88f"><param name="Name" value="y() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#ada02b270d9b0761d4a5558f01d071e37"><param name="Name" value="Box_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#aafa2445ad81b8349e1426a13b467a43d"><param name="Name" value="COST_SCALE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a04ac1f7a0d3d42ff9865f97a15151505"><param name="Name" value="Cap_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#ae8f337b00a01625092d28e1d86fa3b93"><param name="Name" value="Demand_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a9be3b8eb8f143666319ebb24f14e62a8"><param name="Name" value="LM_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a38ddb2e2744660ae91bac5b43ba2298c"><param name="Name" value="Point2_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a84bdcbd6611d7a06a3e45bd49fe15ad4"><param name="Name" value="Wire_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a1b8176598e268e25ed7a60c8f0e618e2"><param name="Name" value="adjust(Cap_t origin, float r, int l)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#aa05722ce4b5098be11da1b592c007f65"><param name="Name" value="applyRR(RoutingInputs &amp;RI, RoutingOutputs &amp;RO, RoutingResults &amp;RR)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#aa5723a96e5b7dbace12c2efd3b00559b"><param name="Name" value="coefMax[]"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a3315c454f6de59b2c2a0838d8500f388"><param name="Name" value="coefMid[]"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#ade040a06da6d3b034c2faa19b6b4b602"><param name="Name" value="coefMin[]"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#af2f80013559a056b9792901fa57f50ed"><param name="Name" value="coefSlope[]"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a0a5ca619fabb320bba3c8cd4c8297ce9"><param name="Name" value="display3D(RoutingInputs &amp;RI, RoutingOutputs &amp;RO, int numThreads)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a3ac1573213ea156bd7d4446449a36a91"><param name="Name" value="extractRD(RoutingInputs &amp;RI, int numThreads=1)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a5a1ad3af7620510efaf9d58b81b9959b"><param name="Name" value="getTotalOverflow2D(RoutingInputs &amp;RI, RoutingDatas &amp;RD, double ratio=1, bool verbose=false)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#ac7803b5f13cdbc0aed6715d4bd792208"><param name="Name" value="getTotalOverflow2DCPUKernel(RoutingInputs RI, RoutingDatas RD, double ratio=1, bool verbose=false)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#afa780dfb3b0fff26752b79f8f0e61be2"><param name="Name" value="getTotalOverflow2DGPUKernel(RoutingInputs RI, RoutingDatas RD, double ratio=1, bool verbose=false)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#ad3a09278c09152f52c7b6ccd24c41dfb"><param name="Name" value="heuristicAdjustCapacity(RoutingInputs &amp;RI, RoutingDatas &amp;RD, int numThreads)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#ac09a6def38aa5b5ced2c5f9fff286265"><param name="Name" value="print2DHeatMap(RoutingInputs &amp;RI, RoutingDatas &amp;RD, std::string outfile)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a907ee7e6aa09c398e61329cdf048d6bc"><param name="Name" value="print3DHeatMap(RoutingInputs &amp;RI, RoutingOutputs &amp;RO, int l, std::string outfile)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html"><param name="Name" value="ops::common"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a1744b27fff323c50f85302c1153ddaaa"><param name="Name" value="printError(const char *file, int line)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1decompose.html"><param name="Name" value="ops::decompose"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1decompose.html"><param name="Name" value="ops::decompose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1decompose.html#a65061cf468c289fe92d3825bab16e733"><param name="Name" value="decompose(const ops::common::RoutingInputs &amp;RI, const ops::common::RoutingDatas &amp;RD, int numThreads=1, bool useGPU=false)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1guide.html"><param name="Name" value="ops::guide"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1guide.html"><param name="Name" value="ops::guide"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1guide.html#a47d78dfc32db4a7a473a828949db087b"><param name="Name" value="writeGDSStyle(ops::common::RoutingInputs &amp;RI, ops::common::RoutingResults &amp;RR, const std::string &amp;path)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1guide.html"><param name="Name" value="ops::guide"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1guide.html#ac84b04884d85b2ced15547ae4934bbe4"><param name="Name" value="writeICCADContestStyle(ops::common::RoutingInputs &amp;RI, ops::common::RoutingResults &amp;RR, std::vector&lt; std::string &gt; &amp;netNames, std::vector&lt; std::string &gt; &amp;layerNames, std::vector&lt; uint32_t &gt; &amp;xBoundaries, std::vector&lt; uint32_t &gt; &amp;yBoundaries, const std::string &amp;path, int numThreads)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1guide.html"><param name="Name" value="ops::guide"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1guide.html#ae0479b99551ea4dcc528171659cbb96d"><param name="Name" value="writeISPDContestStyle(std::vector&lt; std::string &gt; &amp;netNames, ops::common::RoutingInputs &amp;RI, ops::common::RoutingResults &amp;RR, const std::string &amp;path, int numThreads, bool unique=false)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html"><param name="Name" value="ops::layerAssignment"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html"><param name="Name" value="ops::layerAssignment"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#a3b6098708bcfa2763acd55eced55bba7"><param name="Name" value="DEG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html"><param name="Name" value="ops::layerAssignment"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#a73cfc8e0d766817a1548a733eb39aa60"><param name="Name" value="addstackVia(uint32_t l, uint32_t x, uint32_t y, ops::common::RoutingInputs &amp;RI, ops::common::RoutingOutputs &amp;RO, int val)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html"><param name="Name" value="ops::layerAssignment"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#a478179383e8d64dc729ae1b7d38a8101"><param name="Name" value="assignEdge(int32_t *gcellx, int32_t *gcelly, int8_t *gcellz, uint32_t len, int64_t *f, int e1, int e2, int32_t *prev, ops::common::RoutingInputs &amp;RI, ops::common::RoutingOutputs &amp;RO, int branchIdx)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html"><param name="Name" value="ops::layerAssignment"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#a044e75bbaed6ac4300f74fdad5dd9376"><param name="Name" value="convertRO2RR(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, size_t *flatPathOffset, int8_t *flatPathGCelll, int numThreads)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html"><param name="Name" value="ops::layerAssignment"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#a556a10bd4b5464d7dead74e58f622322"><param name="Name" value="getBoxesAndInitalBotTop(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html"><param name="Name" value="ops::layerAssignment"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#ae5c18ec1d12ada868e7c2a8cbe59cd46"><param name="Name" value="layerAssignment(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, ops::common::RoutingResults &amp;RR, batch::Batches_t &amp;batches, int32_t numThreads=1)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html"><param name="Name" value="ops::layerAssignment"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#a6be6b1f82951ccc7883df6f2555f4e2c"><param name="Name" value="layerAssignment(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, ops::common::RoutingResults &amp;RR, int32_t numThreads=1)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html"><param name="Name" value="ops::layerAssignment"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#a44da2df44815aba5e40d6e665bdbaff2"><param name="Name" value="layerAssignmentCPUKernel(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, ops::common::RoutingResults &amp;RR, ops::batch::Batches_t &amp;batches, int32_t numThreads)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html"><param name="Name" value="ops::layerAssignment"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#ac229e0f0f3ad77fe2f30eacf9785a193"><param name="Name" value="layerAssignmentGPUKernel(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, ops::common::RoutingResults &amp;RR, ops::batch::Batches_t &amp;batches, int32_t numThreads)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html"><param name="Name" value="ops::layerAssignment"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#a787b1b3e0c42a2ed53d930f09dd33b56"><param name="Name" value="stackViaPenalty(uint32_t l, uint32_t x, uint32_t y, ops::common::RoutingInputs &amp;RI, ops::common::RoutingOutputs &amp;RO)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html"><param name="Name" value="ops::pattern"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html"><param name="Name" value="ops::pattern"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#a9f74ac4644ecc7e15dd6c318f0b7d870"><param name="Name" value="LPatternRoute(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, int64_t *costMap, int branchIdx)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html"><param name="Name" value="ops::pattern"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#afbcbb75dc34e14fb4974cfc9159d6b84"><param name="Name" value="LVPatternRoute(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, int64_t *costMap, int offset, int expandMargin, int branchIdx, double step)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html"><param name="Name" value="ops::pattern"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#afb5d89d698396f136ad735d744f133e7"><param name="Name" value="PATTERN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html"><param name="Name" value="ops::pattern"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#afb5d89d698396f136ad735d744f133e7aae7bc3b02ce65f7953ddfb53f8531b37"><param name="Name" value="PATTERN_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html"><param name="Name" value="ops::pattern"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#afb5d89d698396f136ad735d744f133e7a9226ac5de595ee1e8a66ce54d1c024e2"><param name="Name" value="PATTERN_LV"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html"><param name="Name" value="ops::pattern"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#afb5d89d698396f136ad735d744f133e7a3d7b408d8b06e1d65a96941d6834cbca"><param name="Name" value="PATTERN_Z"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html"><param name="Name" value="ops::pattern"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#a72e878843e89fd0ffbeb046053480a9a"><param name="Name" value="isOvfl(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, double thres, int branchIdx)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html"><param name="Name" value="ops::pattern"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#ab1eaefa7e8decb3c3dfe726df720fa02"><param name="Name" value="manhattan(uint32_t startx, uint32_t starty, uint32_t endx, uint32_t endy)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html"><param name="Name" value="ops::pattern"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#aaa06d2909f6a28878a825d43fd061424"><param name="Name" value="pattern(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, PATTERN P, int thres, uint32_t numThreads, int expand)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html"><param name="Name" value="ops::pattern"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#aeef42169f33b202f5b8b8b75f5ba66d9"><param name="Name" value="pattern(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, PATTERN P=PATTERN_L, int32_t thres=0, uint32_t numThreads=1, int expand=0)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html"><param name="Name" value="ops::pattern"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#a3f2c65d953e04311860a88f140681283"><param name="Name" value="patternCPUKernel(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, PATTERN P, double thres, uint32_t numThreads, int expand)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html"><param name="Name" value="ops::pattern"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#ad79b530069ad0d47ea141c61f09e8af8"><param name="Name" value="patternGPUKernel(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, PATTERN P, double thres, uint32_t numThreads, int expand)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html"><param name="Name" value="ops::pattern"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#a034aa33756fe363dd381fa3382c6ee58"><param name="Name" value="record(ops::common::RoutingOutputs &amp;RO, int branchIdx, int startx, int starty, int endx, int endy)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html"><param name="Name" value="ops::pattern"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#ab81a9198ee080a91c321082fc1e5554f"><param name="Name" value="ripUp(ops::common::RoutingInputs &amp;RI, common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, int branchIdx)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html"><param name="Name" value="ops::pattern"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#a4961f702425f3aea04234608ebbab610"><param name="Name" value="use(common::RoutingInputs &amp;RI, common::RoutingDatas &amp;RD, common::RoutingOutputs &amp;RO, int branchIdx)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops.html"><param name="Name" value="ops"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops.html#a940ce0b23b660ddb0a8347074f02d191"><param name="Name" value="BIGBLOCK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops.html"><param name="Name" value="ops"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops.html#a071fe634651bde6ed3fdca5a7832bfb9"><param name="Name" value="BIGBLOCKS(int x)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops.html"><param name="Name" value="ops"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops.html#abfcc6cd4afa1d822edb8b46996ccabed"><param name="Name" value="BLOCK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops.html"><param name="Name" value="ops"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops.html#a8d9fcfc0ee9d29207f74d79c9a1ad8b3"><param name="Name" value="BLOCKS(int x)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops.html"><param name="Name" value="ops"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops.html#a69f9529c44a94afcbfea60e7a665131a"><param name="Name" value="LOG_BLOCK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a2c9d331a74b913ac81e57934e6ba2646"><param name="Name" value="outputFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#af5f54ee7d5eba561eb1c2ac4b706a06d"><param name="Name" value="overflowCost"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#aaa06d2909f6a28878a825d43fd061424"><param name="Name" value="pattern(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, PATTERN P, int thres, uint32_t numThreads, int expand)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#aeef42169f33b202f5b8b8b75f5ba66d9"><param name="Name" value="pattern(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, PATTERN P=PATTERN_L, int32_t thres=0, uint32_t numThreads=1, int expand=0)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#a3f2c65d953e04311860a88f140681283"><param name="Name" value="patternCPUKernel(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, PATTERN P, double thres, uint32_t numThreads, int expand)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#ad79b530069ad0d47ea141c61f09e8af8"><param name="Name" value="patternGPUKernel(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, PATTERN P, double thres, uint32_t numThreads, int expand)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html#ae7ccf81fdca0737a776e5340231faa50"><param name="Name" value="pinIdx"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1_parser_1_1_net_file_split_info.html#a12db698d54426564d620da6af8f1e7a0"><param name="Name" value="pos"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#ac09a6def38aa5b5ced2c5f9fff286265"><param name="Name" value="print2DHeatMap(RoutingInputs &amp;RI, RoutingDatas &amp;RD, std::string outfile)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a907ee7e6aa09c398e61329cdf048d6bc"><param name="Name" value="print3DHeatMap(RoutingInputs &amp;RI, RoutingOutputs &amp;RO, int l, std::string outfile)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1common.html#a1744b27fff323c50f85302c1153ddaaa"><param name="Name" value="printError(const char *file, int line)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_parser.html#a8bc480781433a0b09853c67d03cabde3"><param name="Name" value="readCapNet(const char *capFilePath, const char *netFilePath, bool warmUpGPU=true, int numThreads=1)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#a034aa33756fe363dd381fa3382c6ee58"><param name="Name" value="record(ops::common::RoutingOutputs &amp;RO, int branchIdx, int startx, int starty, int endx, int endy)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#ab81a9198ee080a91c321082fc1e5554f"><param name="Name" value="ripUp(ops::common::RoutingInputs &amp;RI, common::RoutingDatas &amp;RD, ops::common::RoutingOutputs &amp;RO, int branchIdx)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_router.html#a4ed94c57d3f10bb28e4b54d8c15b403f"><param name="Name" value="run()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a52acb57517f66bb1b4fddd6528462fe1"><param name="Name" value="setGlobalVariables(const opt::variables_map &amp;vm)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#a591b0d077fa0b2d65b4ea399382f5bc4"><param name="Name" value="setInitialLM(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, double val)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#afb98b8dd508229d246e2b7dfd03b2dfe"><param name="Name" value="setInitialLMCPUKernel(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, double val)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#a97702eb0dbc999bba672de80eb8bbf10"><param name="Name" value="setInitialLMGPUKernel(ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, double val)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a0d282bedc3c97d5694327c5054ba1147"><param name="Name" value="stackViaMap"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1layer_assignment.html#a787b1b3e0c42a2ed53d930f09dd33b56"><param name="Name" value="stackViaPenalty(uint32_t l, uint32_t x, uint32_t y, ops::common::RoutingInputs &amp;RI, ops::common::RoutingOutputs &amp;RO)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_path.html#ada9836414fe4ac011ba53e277e0cf489"><param name="Name" value="startx"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_path.html#acee5f4b96ddcd8860603f0cd4984c264"><param name="Name" value="starty"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a790b22f7866aae3055c745d1157ae7b4"><param name="Name" value="totalVia"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#ac4d6db0690213f7a1c0d4e4f0c353838"><param name="Name" value="totalWire"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a98ca47c44d1ae8512f5500c9712b317b"><param name="Name" value="unitViaCost"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#ae762ab50dc698c5c02d41c09026b85a2"><param name="Name" value="unitVioCosts"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a16d7aceb97272e457cae5bef4f5b48f4"><param name="Name" value="unitVioCosts_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#aebe56c831d42d8ec71901e82578e91d1"><param name="Name" value="unitWireCost"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#aee48df767a0cf63d699ca12db7c5442f"><param name="Name" value="updateEM(const ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, uint32_t iter)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#acabe4d0d1a0c5955978e57f79df2a674"><param name="Name" value="updateEMCPUKernel(const ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, uint32_t iter)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#a95a86f158e99c6c9226b1ce1e5416153"><param name="Name" value="updateEMGPUKernel(const ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, uint32_t iter)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#aeea201c2c68664151f7e83339b9c1c11"><param name="Name" value="updateLR(const ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, uint32_t iter)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#aa7102dbcbaefebdaba7b4b59dc6c6438"><param name="Name" value="updateLRCPUKernel(const ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, uint32_t iter)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1_l_m.html#aa15eec56074c7172ded37d34257e5d17"><param name="Name" value="updateLRGPUKernel(const ops::common::RoutingInputs &amp;RI, ops::common::RoutingDatas &amp;RD, uint32_t iter)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1pattern.html#a4961f702425f3aea04234608ebbab610"><param name="Name" value="use(common::RoutingInputs &amp;RI, common::RoutingDatas &amp;RD, common::RoutingOutputs &amp;RO, int branchIdx)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a586fcfd0cbef964d99f44ea4ac85e4c0"><param name="Name" value="useCapNet"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a52e8afdea8aa919d40a26f74a01fc823"><param name="Name" value="useEGR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#afb473f12e2258ec4363e7f1dac046633"><param name="Name" value="useFastMode"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a07f2098d9ced32b0b2e75dded17de056"><param name="Name" value="useGPU"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#ab2008edbed9357f6a3dbb3b055ac6645"><param name="Name" value="useLefDef"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a4eca500c44ae56b141f73c1575b27f25"><param name="Name" value="vEdgeLengths"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_inputs.html#a71dd6f9d39c4dc4e89a1bf02bdffa5ec"><param name="Name" value="vEdgeLengths_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a0b2caeb4b6f130be43e5a2f0267dd453"><param name="Name" value="verbose"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#af6f0757c70a15aa854daadfd14eef907"><param name="Name" value="viaBound"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a879ada3d1f86abd9ad349e5fddca32d7"><param name="Name" value="viaCost"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#aef02af1d3a9d813637631a85af33a1f3"><param name="Name" value="viaEnd"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#ae933384bdfa003181bb58a5df7c04bd9"><param name="Name" value="viaMap"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a2099b5db66e0f9889a3d4e6a682eec66"><param name="Name" value="viaStart"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#ab897f39fdb9520f7c09bc3a6c8b8b578"><param name="Name" value="vias"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a1702a0214f25049ca467825e33c1d61d"><param name="Name" value="viasNum"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a408e8f45cf492f1f28f86333d1d8dfde"><param name="Name" value="wireBound"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_outputs.html#a322cb400dc0af1361bc910bf2e883e4a"><param name="Name" value="wireCost"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a90b6ee803fe9f850beebab4dd5867fd7"><param name="Name" value="wireEnd"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#ab73e0f2187d3c75b6dda6694ba04e86f"><param name="Name" value="wireStart"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#a9ab19a44f761398cfcb1441066669a48"><param name="Name" value="wires"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structops_1_1common_1_1_routing_results.html#ae8e71f2e8a25af5cd9d7b46fda6708c8"><param name="Name" value="wiresNum"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_router.html#a8c9dacc634fa0c3b1856f38216647d20"><param name="Name" value="writeGDSStyle(const std::string &amp;path)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1guide.html#a47d78dfc32db4a7a473a828949db087b"><param name="Name" value="writeGDSStyle(ops::common::RoutingInputs &amp;RI, ops::common::RoutingResults &amp;RR, const std::string &amp;path)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1guide.html#ac84b04884d85b2ced15547ae4934bbe4"><param name="Name" value="writeICCADContestStyle(ops::common::RoutingInputs &amp;RI, ops::common::RoutingResults &amp;RR, std::vector&lt; std::string &gt; &amp;netNames, std::vector&lt; std::string &gt; &amp;layerNames, std::vector&lt; uint32_t &gt; &amp;xBoundaries, std::vector&lt; uint32_t &gt; &amp;yBoundaries, const std::string &amp;path, int numThreads)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceops_1_1guide.html#ae0479b99551ea4dcc528171659cbb96d"><param name="Name" value="writeISPDContestStyle(std::vector&lt; std::string &gt; &amp;netNames, ops::common::RoutingInputs &amp;RI, ops::common::RoutingResults &amp;RR, const std::string &amp;path, int numThreads, bool unique=false)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_router.html#addc03d687b690542564e6ba9f30e95e7"><param name="Name" value="writeISPDStyle(const std::string &amp;path)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classops_1_1common_1_1_via__t.html#aaff377892698c7efb882874234dfcda6"><param name="Name" value="x() const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classops_1_1common_1_1_via__t.html#ab64c035aca186ce6bb7379c9edb7a88f"><param name="Name" value="y() const"></OBJECT>
+</UL>
+</BODY>
+</HTML>
