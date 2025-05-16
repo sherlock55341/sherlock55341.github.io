@@ -21,7 +21,7 @@ I am a first-year PhD student in the School of Integrated Circuits at Peking Uni
    *ACM International Symposium on Physical Design*, Austin, TX, 2025.  
 
 1. **HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method**  
-   **Chunyuan Zhao**, [Zizheng Guo](https://guozz.cn), Rui Wang, [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), Yun Liang, [Yibo Lin](https://yibolin.com)&#42; 
+   **Chunyuan Zhao**, [Zizheng Guo](https://guozz.cn), Rui Wang, [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), Yun Liang, [Yibo Lin](https://yibolin.com)&#42;  
    *IEEE/ACM International Conference on Computer-Aided Design*, New Jersey, 2024.
    
 ---
