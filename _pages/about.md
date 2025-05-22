@@ -43,10 +43,10 @@ I am a first-year PhD student in the School of Integrated Circuits at Peking Uni
 
 | Affiliation | Location | Year |
 |------------|------|------|
-| **Peking University**, Ph.D. Student in Integrated Circuit Science and Engineering | Beijing, China | Sept. 2024 - Present |
+| **Peking University**, Ph.D. Student in Integrated Circuit Science and Engineering | Beijing, China | Sep. 2024 - Present |
 |**Institute of Electronic Design Automation, Peking University**, Research Intern |Jiangsu, China|Jul. 2024 - Sept.2024|
 | **Primarius Technology**, Routing Tool Development | Beijing, China | Jul. 2023 - Aug. 2023 |
-| **Peking University**, B.S. in Scientific and Engineering Computing | Beijing, China | Sept. 2020 - Jun. 2024 |
+| **Peking University**, B.S. in Scientific and Engineering Computing | Beijing, China | Sep. 2020 - Jun. 2024 |
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
