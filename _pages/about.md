@@ -43,8 +43,9 @@ I am a first-year PhD student in the School of Integrated Circuits at Peking Uni
 
 | Affiliation | Location | Year |
 |------------|------|------|
+|**Primarius Technology**, Routing Tool Development | Shanghai, China | Jun. 2025 - Present |
 | **Peking University**, Ph.D. Student in Integrated Circuit Science and Engineering | Beijing, China | Sep. 2024 - Present |
-|**Institute of Electronic Design Automation, Peking University**, Research Intern |Jiangsu, China|Jul. 2024 - Sept.2024|
+|**Institute of Electronic Design Automation, Peking University**, Research Intern |Jiangsu, China|Jul. 2024 - Sep.2024|
 | **Primarius Technology**, Routing Tool Development | Beijing, China | Jul. 2023 - Aug. 2023 |
 | **Peking University**, B.S. in Scientific and Engineering Computing | Beijing, China | Sep. 2020 - Jun. 2024 |
 
