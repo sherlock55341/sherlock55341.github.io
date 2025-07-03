@@ -25,6 +25,10 @@ I am a first-year PhD student in the School of Integrated Circuits at Peking Uni
    **Chunyuan Zhao**, [Zizheng Guo](https://guozz.cn), Rui Wang, [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), Yun Liang, [Yibo Lin](https://yibolin.com)&#42;  
    *IEEE/ACM International Conference on Computer-Aided Design*, New Jersey, 2024.  
    [[PDF](pdf/HeLEM-GR.pdf)] 
+3. **GTA: GPU-Accelerated Track Assignment with Lightweight Lookup Table for Conflict Detection**
+    **Chunyuan Zhao**, [Jiarui Wang](https://tomjerry213.github.io/), Xun Jiang, Jincheng Lou, [Yibo Lin](https://yibolin.com)&#42;  
+   *IEEE/ACM International Conference on Computer-Aided Design*, Munich, 2025.  
+   
    
 ---
 # Honor and Awards
