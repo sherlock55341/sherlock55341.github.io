@@ -38,6 +38,7 @@ I am a first-year PhD student in the School of Integrated Circuits at Peking Uni
     [Jing Mai](https://magic3007.github.io/), **Chunyuan Zhao**, Zuodong Zhang, Zhixiong Di, Runsheng Wang, [Yibo Lin](https://yibolin.com)&#42;  
     *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2025.  
     [[LINK](https://ieeexplore.ieee.org/document/11121878)] 
+    
 ---
 # Honor and Awards
 
