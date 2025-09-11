@@ -44,9 +44,9 @@ I am a first-year PhD student in the School of Integrated Circuits at Peking Uni
 
 | Honor / Award | Year |
 |--------------|------|
-| **1st Place** in CAD Contest at ISPD (Performance-Driven Large Scale Global Routing) | 2025 |
+| **1st Place** in CAD Contest at ISPD (Performance-Driven Large Scale Global Routing) [[LINK](https://www.ispd.cc/contests/25/index.html)] | 2025 |
 | ICCAD Student Scholar Program Grant | 2024 |
-| **1st Place** in CAD Contest at ISPD (GPU/ML-Enhanced Large Scale Global Routing) | 2024 |
+| **1st Place** in CAD Contest at ISPD (GPU/ML-Enhanced Large Scale Global Routing) [[LINK](https://www.ispd.cc/contests/24/index.html)] | 2024 |
 | **Gold Award** in China Collegiate Programming Contest, Mianyang Site | 2020 |
 | **Bronze Medal** in National Olympiad in Informatics | 2019 |
 
