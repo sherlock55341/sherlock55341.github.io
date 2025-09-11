@@ -31,8 +31,13 @@ I am a first-year PhD student in the School of Integrated Circuits at Peking Uni
    [[PDF](pdf/GTA.pdf)]
 4. **Standard Cell Layout Synthesis for Dual-Sided 3D-Stacked Transistors (FFETs)**  
      Kairong Guo, Haoran Lu, Rui Guo, [Jiarui Wang](https://tomjerry213.github.io/), **Chunyuan Zhao**, Heng Wu, Runsheng Wang and [Yibo Lin](https://yibolin.com)&#42;  
-     *IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)*, Tokyo Odaiba Miraikan, Japan, 2025.  
-
+     *IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)*, Tokyo Odaiba Miraikan, Japan, 2025. 
+      
+### **Journal Papers**
+1. **LEGALM 2.0: A Versatile Augmented Lagrangian Method-Based Methodology for Mixed-Cell-Height Legalization**  
+    [Jing Mai](https://magic3007.github.io/), **Chunyuan Zhao**, Zuodong Zhang, Zhixiong Di, Runsheng Wang, [Yibo Lin](https://yibolin.com)&#42;  
+    *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2025.  
+    [[LINK](https://ieeexplore.ieee.org/document/11121878)] 
 ---
 # Honor and Awards
 
