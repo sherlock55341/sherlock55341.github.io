@@ -28,7 +28,7 @@ I am a second-year PhD student in the School of Integrated Circuits at Peking Un
 3. **GTA: GPU-Accelerated Track Assignment with Lightweight Lookup Table for Conflict Detection**  
     **Chunyuan Zhao**, [Jiarui Wang](https://tomjerry213.github.io/), Xun Jiang, Jincheng Lou, [Yibo Lin](https://yibolin.com)&#42;  
    *IEEE/ACM International Conference on Computer-Aided Design*, Munich, 2025.    
-   ***Best Paper Nomination***
+   ***Best Paper Nomination***   
    [[PDF](pdf/GTA.pdf)]
 4. **Standard Cell Layout Synthesis for Dual-Sided 3D-Stacked Transistors (FFETs)**  
      Kairong Guo, Haoran Lu, Rui Guo, [Jiarui Wang](https://tomjerry213.github.io/), **Chunyuan Zhao**, Heng Wu, Runsheng Wang and [Yibo Lin](https://yibolin.com)&#42;  
