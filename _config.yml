@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "About Chunyuan"
-description              : "Chunyuan is enjoying his banana."
+# description              : "Chunyuan is enjoying his banana."
 # description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 # repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -24,7 +24,8 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Chunyuan Zhao"
   # avatar           : "images/Jingshan_Beijing_2025.jpg"
-  avatar           : "images/BeijingChangping_20250511_edited.jpg" 
+  # avatar           : "images/BeijingChangping_20250511_edited.jpg" 
+  avatar           : "images/Munich-20251028.jpg"
   # bio              : "Lorem ipsum College"
   location         : "Beijing, China"
   employer         : "Peking University"

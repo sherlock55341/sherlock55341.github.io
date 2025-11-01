@@ -9,7 +9,7 @@ redirect_from:
 
 ## **About Me**
 
-I am a first-year PhD student in the School of Integrated Circuits at Peking University, advised by Prof. [Yibo Lin](https://yibolin.com/). Before that, I obtained my B.S. degree in the College of Engineering at Peking University. My research interests include data structure, algorithm and GPU-acceleration in electronic design automation (EDA). I won the first place in the ISPD contest held by NVIDIA in 2024 and 2025.
+I am a second-year PhD student in the School of Integrated Circuits at Peking University, advised by Prof. [Yibo Lin](https://yibolin.com/). Before that, I obtained my B.S. degree in the College of Engineering at Peking University. My research interests include data structure, algorithm and GPU-acceleration in electronic design automation (EDA). I won the first place in the ISPD contest held by NVIDIA in 2024 and 2025.
 
 ---
 
@@ -27,7 +27,8 @@ I am a first-year PhD student in the School of Integrated Circuits at Peking Uni
 
 3. **GTA: GPU-Accelerated Track Assignment with Lightweight Lookup Table for Conflict Detection**  
     **Chunyuan Zhao**, [Jiarui Wang](https://tomjerry213.github.io/), Xun Jiang, Jincheng Lou, [Yibo Lin](https://yibolin.com)&#42;  
-   *IEEE/ACM International Conference on Computer-Aided Design*, Munich, 2025.  
+   *IEEE/ACM International Conference on Computer-Aided Design*, Munich, 2025.    
+   ***Best Paper Nomination***
    [[PDF](pdf/GTA.pdf)]
 4. **Standard Cell Layout Synthesis for Dual-Sided 3D-Stacked Transistors (FFETs)**  
      Kairong Guo, Haoran Lu, Rui Guo, [Jiarui Wang](https://tomjerry213.github.io/), **Chunyuan Zhao**, Heng Wu, Runsheng Wang and [Yibo Lin](https://yibolin.com)&#42;  
@@ -44,6 +45,7 @@ I am a first-year PhD student in the School of Integrated Circuits at Peking Uni
 
 | Honor / Award | Year |
 |--------------|------|
+| Best Paper Nomination in ICCAD | 2025 |
 | **1st Place** in CAD Contest at ISPD (Performance-Driven Large Scale Global Routing) [[LINK](https://www.ispd.cc/contests/25/index.html)] | 2025 |
 | ICCAD Student Scholar Program Grant | 2024 |
 | **1st Place** in CAD Contest at ISPD (GPU/ML-Enhanced Large Scale Global Routing) [[LINK](https://www.ispd.cc/contests/24/index.html)] | 2024 |
