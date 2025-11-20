@@ -33,7 +33,7 @@ I am a second-year PhD student in the School of Integrated Circuits at Peking Un
    [[PDF](pdf/GTA.pdf)]
 4. **Standard Cell Layout Synthesis for Dual-Sided 3D-Stacked Transistors (FFETs)**  
      Kairong Guo, Haoran Lu, Rui Guo, [Jiarui Wang](https://tomjerry213.github.io/), **Chunyuan Zhao**, Heng Wu, Runsheng Wang and [Yibo Lin](https://yibolin.com)&#42;  
-     *IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)*, Disneyland, Hong Kong, 2025. 
+     *IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)*, Disneyland, Hong Kong, 2025.    
      [[PDF](pdf/ASPDAC26_FFET.pdf)]
       
 ### **Journal Papers**
