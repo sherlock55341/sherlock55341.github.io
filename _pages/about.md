@@ -69,7 +69,7 @@ I am a second-year PhD student in the School of Integrated Circuits at Peking Un
 # Site Map
 
 <div style="width: 400px; height: 300px; overflow: hidden; margin: 0 auto;">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=a60LVgYjRr4a_XyU0-JAqKN-8WJnlWVlheImvSTgFIw&cl=ffffff&w=a"></script>
+   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qQOBaYFC-QmgbBKLvd1YIM1dKTxGdGhL8U6n-pHAPYQ&cl=ffffff&w=a"></script>
 </div>
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
