@@ -66,7 +66,7 @@ I am a second-year PhD student in the School of Integrated Circuits at Peking Un
 | **Primarius Technology**, Routing Tool Development | Beijing, China | Jul. 2023 - Aug. 2023 |
 | **Peking University**, B.S. in Scientific and Engineering Computing | Beijing, China | Sep. 2020 - Jun. 2024 |
 
-<div style="width: 400px; height: 300px; overflow: hidden;">
+<div style="width: 400px; height: 300px; overflow: hidden; margin: 0 auto;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=a60LVgYjRr4a_XyU0-JAqKN-8WJnlWVlheImvSTgFIw&cl=ffffff&w=a"></script>
 </div>
 
