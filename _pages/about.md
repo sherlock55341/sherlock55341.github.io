@@ -36,7 +36,7 @@ I am a second-year PhD student in the School of Integrated Circuits at Peking Un
      *IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)*, Disneyland, Hong Kong, 2026.    
      [[PDF](pdf/ASPDAC26_FFET.pdf)]
 5. **HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis Engine with Holistic Industrial Design Support**  
-     [Zizheng Guo](https://guozz.cn), [Haichuan Liu](https://www.haichuanliu.top), Xizhe Shi, Shenglu Hua, Zuodong Zhang, **Chunyuan Zhao**, Runsheng Wang and [Yibo Lin](https://yibolin.com)&#42;  
+     [Zizheng Guo](https://guozz.cn), [Haichuan Liu](https://www.haichuanliu.top), Xizhe Shi, [Shenglu Hua](https://shengluhua.github.io), Zuodong Zhang, **Chunyuan Zhao**, Runsheng Wang and [Yibo Lin](https://yibolin.com)&#42;  
      *IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)*, Disneyland, Hong Kong, 2026.  
     ***Invited Paper***
       
