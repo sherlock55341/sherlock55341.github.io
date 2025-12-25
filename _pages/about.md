@@ -35,6 +35,10 @@ I am a second-year PhD student in the School of Integrated Circuits at Peking Un
      Kairong Guo, Haoran Lu, Rui Guo, [Jiarui Wang](https://tomjerry213.github.io/), **Chunyuan Zhao**, Heng Wu, Runsheng Wang and [Yibo Lin](https://yibolin.com)&#42;  
      *IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)*, Disneyland, Hong Kong, 2026.    
      [[PDF](pdf/ASPDAC26_FFET.pdf)]
+5. **HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis Engine with Holistic Industrial Design Support**  
+     [Zizheng Guo](https://guozz.cn), [Haichuan Liu](https://www.haichuanliu.top), Xizhe Shi, Shenglu Hua, Zuodong Zhang, **Chunyuan Zhao**, Runsheng Wang and [Yibo Lin](https://yibolin.com)&#42;  
+     *IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)*, Disneyland, Hong Kong, 2026.  
+    ***Invited Paper***
       
 ### **Journal Papers**
 1. **LEGALM 2.0: A Versatile Augmented Lagrangian Method-Based Methodology for Mixed-Cell-Height Legalization**  
@@ -43,7 +47,7 @@ I am a second-year PhD student in the School of Integrated Circuits at Peking Un
     [[LINK](https://ieeexplore.ieee.org/document/11121878)] 
 2. **GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment**  
     **Chunyuan Zhao**, [Zizheng Guo](https://guozz.cn), Zuodong Zhang, [Yibo Lin](https://yibolin.com)&#42;  
-    *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2025.  
+    *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2026.  
 
 ---
 # Honor and Awards
