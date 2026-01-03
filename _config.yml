@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "About Chunyuan"
-description              : "Chunyuan in Wangfujing, Beijing"
+description              : "Chunyuan is taking a photo with the cute deer, Beijing"
 # description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 # repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -26,7 +26,8 @@ author:
   # avatar           : "images/Jingshan_Beijing_2025.jpg"
   # avatar           : "images/BeijingChangping_20250511_edited.jpg" 
   # avatar           : "images/Munich-20251029.jpg"
-  avatar           : "images/BeijingWangfujing_20251225.jpg"
+  # avatar           : "images/BeijingWangfujing_20251225.jpg"
+  avatar           : "images/BeijingWildAnimalZoo-20260103.jpg"
   # bio              : "Lorem ipsum College"
   location         : "Beijing, China"
   employer         : "Peking University"
