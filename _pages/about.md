@@ -20,21 +20,21 @@ I am a second-year PhD student in the School of Integrated Circuits at Peking Un
 1. **HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method**  
    **Chunyuan Zhao**, [Zizheng Guo](https://guozz.cn), Rui Wang, [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), Yun Liang, [Yibo Lin](https://yibolin.com)&#42;  
    *IEEE/ACM International Conference on Computer-Aided Design*, New Jersey, 2024.  
-   [[PDF](pdf/HeLEM-GR.pdf)] 
+   [[pdf](pdf/HeLEM-GR.pdf)] 
 2. **LEGALM: Efficient Legalization for Mixed-Cell-Height Circuits with Linearized Augmented Lagrangian Method**  
    [Jing Mai](https://magic3007.github.io/), **Chunyuan Zhao**, Zuodong Zhang, Zhixiong Di, [Yibo Lin](https://yibolin.com)&#42;, Runsheng Wang, Ru Huang  
    *ACM International Symposium on Physical Design*, Austin, TX, 2025.  
-   [[PDF](pdf/LEGALM.pdf)]
+   [[pdf](pdf/LEGALM.pdf)]
 
 3. **GTA: GPU-Accelerated Track Assignment with Lightweight Lookup Table for Conflict Detection**  
     **Chunyuan Zhao**, [Jiarui Wang](https://tomjerry213.github.io/), Xun Jiang, Jincheng Lou, [Yibo Lin](https://yibolin.com)&#42;  
    *IEEE/ACM International Conference on Computer-Aided Design*, Munich, 2025.    
    ***Best Paper Nomination***   
-   [[PDF](pdf/GTA.pdf)]
+   [[pdf](pdf/GTA.pdf)]
 4. **Standard Cell Layout Synthesis for Dual-Sided 3D-Stacked Transistors (FFETs)**  
      Kairong Guo, Haoran Lu, Rui Guo, [Jiarui Wang](https://tomjerry213.github.io/), **Chunyuan Zhao**, Heng Wu, Runsheng Wang and [Yibo Lin](https://yibolin.com)&#42;  
      *IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)*, Disneyland, Hong Kong, 2026.    
-     [[PDF](pdf/ASPDAC26_FFET.pdf)]
+     [[pdf](pdf/ASPDAC26_FFET.pdf)]
 5. **HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis Engine with Holistic Industrial Design Support**  
      [Zizheng Guo](https://guozz.cn), [Haichuan Liu](https://www.haichuanliu.top), Xizhe Shi, [Shenglu Hua](https://shengluhua.github.io), Zuodong Zhang, **Chunyuan Zhao**, Runsheng Wang and [Yibo Lin](https://yibolin.com)&#42;  
      *IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)*, Disneyland, Hong Kong, 2026.  
@@ -44,10 +44,11 @@ I am a second-year PhD student in the School of Integrated Circuits at Peking Un
 1. **LEGALM 2.0: A Versatile Augmented Lagrangian Method-Based Methodology for Mixed-Cell-Height Legalization**  
     [Jing Mai](https://magic3007.github.io/), **Chunyuan Zhao**, Zuodong Zhang, Zhixiong Di, Runsheng Wang, [Yibo Lin](https://yibolin.com)&#42;  
     *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2025.  
-    [[LINK](https://ieeexplore.ieee.org/document/11121878)] 
+    [[link](https://ieeexplore.ieee.org/document/11121878)] 
 2. **GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment**  
     **Chunyuan Zhao**, [Zizheng Guo](https://guozz.cn), Zuodong Zhang, [Yibo Lin](https://yibolin.com)&#42;  
     *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2026.  
+    [[link](https://ieeexplore.ieee.org/document/11322566)]
 
 ---
 # Honor and Awards
