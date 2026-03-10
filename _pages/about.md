@@ -39,6 +39,11 @@ I am a second-year PhD student in the School of Integrated Circuits at Peking Un
      [Zizheng Guo](https://guozz.cn), [Haichuan Liu](https://www.haichuanliu.top), Xizhe Shi, [Shenglu Hua](https://shengluhua.github.io), Zuodong Zhang, **Chunyuan Zhao**, Runsheng Wang and [Yibo Lin](https://yibolin.com)&#42;  
      *IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)*, Disneyland, Hong Kong, 2026.  
     ***Invited Paper***
+6. **Integrated Timing-driven Placement for Hybrid-Bonding-based Face-to-Face 3D ICs**   
+    [Yuhao Ji](https://xxzh12.github.io), Yunqi Shi, Tianshu Hou, Yuxuan Zhao, **Chunyuan Zhao**, Peiyu Liao, Zizheng Guo, Chao Qian, [Yibo Lin](https://yibolin.com) and [Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)&#42;  
+    *ACM/IEEE Design Automation Conference (DAC)*, Long Beach, 2026.  
+
+
       
 ### **Journal Papers**
 1. **LEGALM 2.0: A Versatile Augmented Lagrangian Method-Based Methodology for Mixed-Cell-Height Legalization**  
