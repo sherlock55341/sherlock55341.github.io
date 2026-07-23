@@ -42,6 +42,12 @@ I am a second-year PhD student in the School of Integrated Circuits at Peking Un
 6. **Integrated Timing-driven Placement for Hybrid-Bonding-based Face-to-Face 3D ICs**   
     [Yuhao Ji](https://xxzh12.github.io), Yunqi Shi, Tianshu Hou, Yuxuan Zhao, **Chunyuan Zhao**, Peiyu Liao, Zizheng Guo, Chao Qian, [Yibo Lin](https://yibolin.com) and [Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)&#42;  
     *ACM/IEEE Design Automation Conference (DAC)*, Long Beach, 2026.  
+7. **ScoutCell: Sensitivity-Guided Coupling Optimization for Timing-Driven Standard Cell Synthesis**<br>
+    Kairong Guo, Haoyi Zhang, [Haichuan Liu](https://www.haichuanliu.top), **Chunyuan Zhao**, [Yibo Lin](https://yibolin.com)&#42;<br>
+    *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, San Jose, CA, 2026.
+8. **Anonymous: A Unified Agentic Platform for Digital Chip Design and Optimization**<br>
+    Jincheng Lou, Ruohan Xu, Jiecheng Ma, Boyang Wu, [Yuhao Ji](https://xxzh12.github.io), **Chunyuan Zhao**, Xinyu Qu, Yuxiang Zhao, Runzhe Tao, [Bei Yu](https://www.cse.cuhk.edu.hk/~byu/), Zhixiong Di, [Yibo Lin](https://yibolin.com)&#42;<br>
+    *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, San Jose, CA, 2026.
 
 
       
