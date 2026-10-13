@@ -68,9 +68,9 @@ I am a third-year PhD student in the School of Integrated Circuits at Peking Uni
 |--------------|------|
 | Huawei Scholarship (Third Prize) | 2026 |
 | Best Paper Award Nomination in ICCAD | 2025 |
-| **1st Place** in CAD Contest at ISPD (Performance-Driven Large Scale Global Routing) [[LINK](https://www.ispd.cc/contests/25/index.html)] | 2025 |
+| **1st Place** in CAD Contest at ISPD (Performance-Driven Large Scale Global Routing) [[LINK](https://www.ispd.cc/contests/25/index.html)]<br>Related to the GAP-LA paper: a timing-driven chip design optimization strategy that prioritizes and parallelizes solving based on timing analysis results. | 2025 |
 | ICCAD Student Scholar Program Grant | 2024 |
-| **1st Place** in CAD Contest at ISPD (GPU/ML-Enhanced Large Scale Global Routing) [[LINK](https://www.ispd.cc/contests/24/index.html)] | 2024 |
+| **1st Place** in CAD Contest at ISPD (GPU/ML-Enhanced Large Scale Global Routing) [[LINK](https://www.ispd.cc/contests/24/index.html)]<br>Related to the HeLEM-GR paper: a GPU-accelerated global router that reformulates the two key routing algorithms as segment reduce and prefix scan problems for fast solving. | 2024 |
 | **Gold Award** in China Collegiate Programming Contest, Mianyang Site | 2020 |
 | **Bronze Medal** in National Olympiad in Informatics | 2019 |
 
