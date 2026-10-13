@@ -66,6 +66,7 @@ I am a third-year PhD student in the School of Integrated Circuits at Peking Uni
 
 | Honor / Award | Year |
 |--------------|------|
+| Huawei Scholarship (Third Prize) | 2026 |
 | Best Paper Award Nomination in ICCAD | 2025 |
 | **1st Place** in CAD Contest at ISPD (Performance-Driven Large Scale Global Routing) [[LINK](https://www.ispd.cc/contests/25/index.html)] | 2025 |
 | ICCAD Student Scholar Program Grant | 2024 |
