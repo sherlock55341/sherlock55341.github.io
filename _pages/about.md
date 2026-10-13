@@ -45,7 +45,7 @@ I am a second-year PhD student in the School of Integrated Circuits at Peking Un
 7. **ScoutCell: Sensitivity-Guided Coupling Optimization for Timing-Driven Standard Cell Synthesis**<br>
     Kairong Guo, Haoyi Zhang, [Haichuan Liu](https://www.haichuanliu.top), **Chunyuan Zhao**, [Yibo Lin](https://yibolin.com)&#42;<br>
     *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, San Jose, CA, 2026.
-8. **Anonymous: A Unified Agentic Platform for Digital Chip Design and Optimization**<br>
+8. **LEGO 2.0: A Unified Agentic Platform for Digital Chip Design and Optimization**<br>
     Jincheng Lou, Ruohan Xu, Jiecheng Ma, Boyang Wu, [Yuhao Ji](https://xxzh12.github.io), **Chunyuan Zhao**, Xinyu Qu, Yuxiang Zhao, Runzhe Tao, [Bei Yu](https://www.cse.cuhk.edu.hk/~byu/), Zhixiong Di, [Yibo Lin](https://yibolin.com)&#42;<br>
     *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, San Jose, CA, 2026.
 
@@ -79,7 +79,7 @@ I am a second-year PhD student in the School of Integrated Circuits at Peking Un
 
 | Affiliation | Location | Year |
 |------------|------|------|
-|**Primarius Technology**, Routing Tool Development | Shanghai, China | Jun. 2025 - Present |
+|**Primarius Technology**, Routing Tool Development | Shanghai, China | Jun. 2025 - Sep. 2026 |
 | **Peking University**, Ph.D. Student in Integrated Circuit Science and Engineering | Beijing, China | Sep. 2024 - Present |
 |**Institute of Electronic Design Automation, Peking University**, Research Intern |Jiangsu, China|Jul. 2024 - Sep.2024|
 | **Primarius Technology**, Routing Tool Development | Beijing, China | Jul. 2023 - Aug. 2023 |
