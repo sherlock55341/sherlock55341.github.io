@@ -47,7 +47,8 @@ I am a third-year PhD student in the School of Integrated Circuits at Peking Uni
     *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, San Jose, CA, 2026.
 8. **LEGO 2.0: A Unified Agentic Platform for Digital Chip Design and Optimization**<br>
     Jincheng Lou, Ruohan Xu, Jiecheng Ma, Boyang Wu, [Yuhao Ji](https://xxzh12.github.io), **Chunyuan Zhao**, Xinyu Qu, Yuxiang Zhao, Runzhe Tao, [Bei Yu](https://www.cse.cuhk.edu.hk/~byu/), Zhixiong Di, [Yibo Lin](https://yibolin.com)&#42;<br>
-    *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, San Jose, CA, 2026.
+    *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, San Jose, CA, 2026.<br>
+    A leader agent coordinates RTL Spec, RTL Gen, EDA Tool, and Diagnosis agents, plus a memory agent maintaining the memory system; skills from prior RTL-generation work and EDA tools drive staged RTL code generation, simulation, EDA layout generation, and performance evaluation. Memories from solved cases helped resolve some unsolved ones.
 
 
       
